@@ -1,0 +1,3 @@
+HOSTNAME;IP
+localhost
+localhost.vimpelcom.ru
